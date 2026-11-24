@@ -1,0 +1,7 @@
+Casting Helper for Kiosk Satellite
+
+The sender-session handling follows the behaviour of yt-cast-receiver
+(https://github.com/patrickkfkan/yt-cast-receiver), MIT License, Copyright (c) patrickkfkan.
+
+The files under sdk/ and the build tools under tools/ come from
+https://github.com/jxlarrea/kiosk-satellite-plugins, Apache-2.0.
