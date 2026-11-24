@@ -1,4 +1,4 @@
-# Kiosk Satellite – Casting Helper
+# Kiosk Satellite – Casting Helper 🤷
 
 **Current version: 0.3.5** ([changelog](changelog.md))
 
