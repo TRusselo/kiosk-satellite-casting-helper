@@ -2,13 +2,13 @@
 
 **Current version: 0.3.5** ([changelog](changelog.md))
 
-- Your kiosk becomes discoverable as a casting destination.
-- Open up new possibilities for remote media playback.
-- Use your existing network to find available devices.
-- Turn your kiosk into a convenient cast endpoint.
-- Unlock seamless device discovery across your network.
-- Bring casting capabilities to your kiosk setup.
-- Enjoy a simpler way to connect and cast.
+- **Y**our kiosk becomes discoverable as a casting destination.
+- **O**pen up new possibilities for remote media playback.
+- **U**se your existing network to find available devices.
+- **T**urn your kiosk into a convenient cast endpoint.
+- **U**nlock seamless device discovery across your network.
+- **B**ring casting capabilities to your kiosk setup.
+- **E**njoy a simpler way to connect and cast.
 - ^
 
 
