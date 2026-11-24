@@ -1,6 +1,6 @@
 # Kiosk Satellite – Casting Helper
 
-**Current version: 0.3.4** ([changelog](changelog.md))
+**Current version: 0.3.5** ([changelog](changelog.md))
 
 - Your kiosk becomes discoverable as a casting destination.
 - Open up new possibilities for remote media playback.

@@ -1,5 +1,8 @@
+# 0.3.5
+- fixes 0.3.4 not installing ("Unexpected or duplicate ZIP entry: NOTICE")
+
 # 0.3.4
-- download now includes the license and credits files
+- download now includes the license and credits files (did not install, use 0.3.5)
 
 # 0.3.3
 - keep player open when sender closes
