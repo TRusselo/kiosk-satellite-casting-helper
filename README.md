@@ -14,7 +14,7 @@
 
 ## Installation:
 On each Kiosk Satellite:
-- download the .zip [Casting Helper 0.3.3](https://gitlab.tiered.top/api/v4/projects/3/packages/generic/casting-helper/latest/casting-helper.zip)
+- download the .zip [Casting Helper (latest)](https://gitlab.tiered.top/api/v4/projects/3/packages/generic/casting-helper/latest/casting-helper.zip)
 - open settings > plugin manager
 - add plugin via .zip
 - select .zip file you downloaded
