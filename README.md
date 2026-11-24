@@ -24,3 +24,4 @@ On each Kiosk Satellite:
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/11fb0213-d7c7-43d9-a10f-b16475c54177" />
 
+[<img src="https://github.com/user-attachments/assets/2d889b1b-d810-42e5-834c-73a92b9e0966" width="25%">](https://buymeacoffee.com/hfaumogyb)   
